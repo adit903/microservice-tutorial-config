@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: Cofig-defailt
+
 eureka:
   instance:
     prefer-ip-address: true
